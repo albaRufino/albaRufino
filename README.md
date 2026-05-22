@@ -1,6 +1,6 @@
 <h1 align="center">Hey, there!</h1>
 <p align = "center">
-  I'm Alba, a computer science student with an interest in data analysis.
+  I'm Alba, a computer science student with an interest in data analysis and data science.
 </p>
 
 <p align="center">
