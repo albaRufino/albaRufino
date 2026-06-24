@@ -1,7 +1,6 @@
 <h1 align="center">Hey, there!</h1>
 <p align = "center">
-  I'm Alba, a computer science student with an interest in data analysis and data science.
-</p>
+Computer Science student focused on backend development and systems design. Working with C#, ASP.NET Core, Java, and SQL to build web applications and data-driven systems.</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,arch,git,docker&theme=dark" />
